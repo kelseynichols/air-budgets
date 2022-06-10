@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/air-budgets/static/css/main.68feaa28.css",
+    "main.js": "/air-budgets/static/js/main.f80b141c.js",
+    "static/js/787.c1d68b83.chunk.js": "/air-budgets/static/js/787.c1d68b83.chunk.js",
+    "static/media/buddy.webp": "/air-budgets/static/media/buddy.d9dc7897e0e433bd81c5.webp",
+    "index.html": "/air-budgets/index.html",
+    "main.68feaa28.css.map": "/air-budgets/static/css/main.68feaa28.css.map",
+    "main.f80b141c.js.map": "/air-budgets/static/js/main.f80b141c.js.map",
+    "787.c1d68b83.chunk.js.map": "/air-budgets/static/js/787.c1d68b83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68feaa28.css",
+    "static/js/main.f80b141c.js"
+  ]
+}
