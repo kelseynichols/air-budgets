@@ -11,6 +11,11 @@ function App() {
           the <del>dog</del> budget is in the house.
         </p>
         <img src={buddy} className="bud" alt="logo" />
+
+
+        <p>thx NIMA for the photoshop</p>
+        <p>thx BRYAN for the idea</p>
+        <p>thx DAN A. for the tech</p>
       </header>
     </div>
   );
