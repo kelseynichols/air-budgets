@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7ffda408.css",
-    "main.js": "/static/js/main.66bd6e14.js",
+    "main.js": "/static/js/main.9aa47476.js",
     "static/js/787.c1d68b83.chunk.js": "/static/js/787.c1d68b83.chunk.js",
     "static/media/AirBudgets.png": "/static/media/AirBudgets.d59fdcdf586b9089ac1c.png",
     "static/media/buddy.webp": "/static/media/buddy.d9dc7897e0e433bd81c5.webp",
     "index.html": "/index.html",
     "main.7ffda408.css.map": "/static/css/main.7ffda408.css.map",
-    "main.66bd6e14.js.map": "/static/js/main.66bd6e14.js.map",
+    "main.9aa47476.js.map": "/static/js/main.9aa47476.js.map",
     "787.c1d68b83.chunk.js.map": "/static/js/787.c1d68b83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ffda408.css",
-    "static/js/main.66bd6e14.js"
+    "static/js/main.9aa47476.js"
   ]
 }
